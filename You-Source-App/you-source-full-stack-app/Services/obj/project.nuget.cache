@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FulpYGNduRxMiKA6pI7XOkOKmKRbPGE6jzoyqvaNOjH8Bk54uOyT9Cjr+qTZz1n9Dga9dxegATC48QM06CDysg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jaque\\Documents\\GitHub\\You-source-Training\\You-Source-App\\you-source-full-stack-app\\Services\\Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jaque\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jaque\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
