@@ -18,3 +18,14 @@ C:\Users\jaque\Documents\GitHub\You-source-Training\You-Source-App\you-source-fu
 C:\Users\jaque\Documents\GitHub\You-source-Training\You-Source-App\you-source-full-stack-app\Voucher_Hound_V.0\obj\Debug\netcoreapp3.1\Voucher_Hound_V.0.dll
 C:\Users\jaque\Documents\GitHub\You-source-Training\You-Source-App\you-source-full-stack-app\Voucher_Hound_V.0\obj\Debug\netcoreapp3.1\Voucher_Hound_V.0.pdb
 C:\Users\jaque\Documents\GitHub\You-source-Training\You-Source-App\you-source-full-stack-app\Voucher_Hound_V.0\obj\Debug\netcoreapp3.1\Voucher_Hound_V.0.genruntimeconfig.cache
+C:\Users\jaque\Documents\GitHub\You-source-Training\You-Source-App\you-source-full-stack-app\Voucher_Hound_V.0\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\jaque\Documents\GitHub\You-source-Training\You-Source-App\you-source-full-stack-app\Voucher_Hound_V.0\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\jaque\Documents\GitHub\You-source-Training\You-Source-App\you-source-full-stack-app\Voucher_Hound_V.0\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\jaque\Documents\GitHub\You-source-Training\You-Source-App\you-source-full-stack-app\Voucher_Hound_V.0\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\jaque\Documents\GitHub\You-source-Training\You-Source-App\you-source-full-stack-app\Voucher_Hound_V.0\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jaque\Documents\GitHub\You-source-Training\You-Source-App\you-source-full-stack-app\Voucher_Hound_V.0\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jaque\Documents\GitHub\You-source-Training\You-Source-App\you-source-full-stack-app\Voucher_Hound_V.0\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\jaque\Documents\GitHub\You-source-Training\You-Source-App\you-source-full-stack-app\Voucher_Hound_V.0\bin\Debug\netcoreapp3.1\Services.dll
+C:\Users\jaque\Documents\GitHub\You-source-Training\You-Source-App\you-source-full-stack-app\Voucher_Hound_V.0\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\jaque\Documents\GitHub\You-source-Training\You-Source-App\you-source-full-stack-app\Voucher_Hound_V.0\bin\Debug\netcoreapp3.1\Services.pdb
+C:\Users\jaque\Documents\GitHub\You-source-Training\You-Source-App\you-source-full-stack-app\Voucher_Hound_V.0\obj\Debug\netcoreapp3.1\Voucher_Hound_V.0.csproj.CopyComplete

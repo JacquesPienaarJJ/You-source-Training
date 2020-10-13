@@ -2,3 +2,11 @@ C:\Users\jaque\Documents\GitHub\You-source-Training\You-Source-App\you-source-fu
 C:\Users\jaque\Documents\GitHub\You-source-Training\You-Source-App\you-source-full-stack-app\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
 C:\Users\jaque\Documents\GitHub\You-source-Training\You-Source-App\you-source-full-stack-app\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
 C:\Users\jaque\Documents\GitHub\You-source-Training\You-Source-App\you-source-full-stack-app\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\jaque\Documents\GitHub\You-source-Training\You-Source-App\you-source-full-stack-app\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\jaque\Documents\GitHub\You-source-Training\You-Source-App\you-source-full-stack-app\DataAccess\bin\Debug\netstandard2.0\Services.dll
+C:\Users\jaque\Documents\GitHub\You-source-Training\You-Source-App\you-source-full-stack-app\DataAccess\bin\Debug\netstandard2.0\Services.pdb
+C:\Users\jaque\Documents\GitHub\You-source-Training\You-Source-App\you-source-full-stack-app\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\jaque\Documents\GitHub\You-source-Training\You-Source-App\you-source-full-stack-app\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\jaque\Documents\GitHub\You-source-Training\You-Source-App\you-source-full-stack-app\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\Users\jaque\Documents\GitHub\You-source-Training\You-Source-App\you-source-full-stack-app\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\jaque\Documents\GitHub\You-source-Training\You-Source-App\you-source-full-stack-app\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
